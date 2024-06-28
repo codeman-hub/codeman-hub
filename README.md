@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning React and TailwindCSS
 - 💞️ I’m looking to collaborate on Any Open Source Project involving Software/Web Development
 - 📫 How to reach me tridip108kalita@gmail.com
-- ⚡ Fun fact: Incline to Philosophy,Science with Spirituality
+- ⚡ Fun fact: Incline towards Philosophy,Science with Spirituality
 
 <!---
 codeman-hub/codeman-hub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
